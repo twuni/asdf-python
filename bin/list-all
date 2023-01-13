@@ -1,0 +1,7 @@
+#!/bin/sh
+
+set -eu
+
+cat <<EOF
+3.11.1
+EOF
