@@ -12,6 +12,7 @@ python_arch() {
     x86_64)
       echo "x86_64-linux-gnu"
       ;;
+    armv6l)
     armv7l)
       echo "arm-linux-gnuabihf"
       ;;
